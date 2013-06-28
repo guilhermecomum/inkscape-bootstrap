@@ -11,3 +11,11 @@ I hope this files help you to learning and/or design your own project
 
 This project is licensed under APLGv3 and MIT License.
 For more information refer to the respectives COPYING files.
+
+## Using
+
+To view the guidelines, open the file on inkscape and select on menu View > Guides
+
+Shortcut:
+
+Shift+| (pipe)
