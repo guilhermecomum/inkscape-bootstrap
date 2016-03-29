@@ -15,7 +15,7 @@
    id="svg9305"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="940.svg">
+   sodipodi:docname="small-devices.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="496.11671"
-     inkscape:cy="724.28617"
+     inkscape:cx="503.03355"
+     inkscape:cy="733.26598"
      inkscape:document-units="px"
-     inkscape:current-layer="svg9305"
+     inkscape:current-layer="layer3"
      showgrid="false"
      showborder="false"
      inkscape:showpageshadow="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1916"
      inkscape:window-height="1038"
@@ -580,15 +580,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Using grid"
-     style="display:none"
-     sodipodi:insensitive="true">
-    <rect
-       style="display:inline;opacity:0.275;fill:#90caf9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4559"
-       width="939"
-       height="918.01959"
-       x="14.977903"
-       y="40.667892" />
+     style="display:inline">
     <rect
        style="opacity:0.275;fill:#a5d6a7;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4641"
@@ -631,29 +623,36 @@
     </g>
     <text
        xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.52695656px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="13.56774"
+       y="-10.903374"
+       id="text4561-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4563-6"
+         x="13.56774"
+         y="-10.903374">margin: 15px</tspan></text>
+    <rect
+       style="display:inline;opacity:0.275;fill:#90caf9;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4559"
+       width="939"
+       height="918.01959"
+       x="14.977903"
+       y="4.5605469e-07" />
+    <text
+       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:21.72675514px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="37.415833"
-       y="66.287987"
+       y="25.620079"
        id="text4561"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4563"
          x="37.415833"
-         y="66.287987">container</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15.52695656px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="16.226562"
-       y="-3.7988071"
-       id="text4561-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4563-6"
-         x="16.226562"
-         y="-3.7988071">margin: 15px</tspan></text>
+         y="25.620079">container</tspan></text>
     <g
        id="g5109"
-       transform="translate(154,23.521606)">
+       transform="translate(154,-17.146286)">
       <rect
          y="469.07849"
          x="29.977903"
@@ -675,7 +674,7 @@
     </g>
     <g
        id="g5129"
-       transform="translate(0,40)">
+       transform="translate(0,-0.667892)">
       <rect
          style="display:inline;opacity:0.275;fill:#4527a0;fill-opacity:1;stroke:none;stroke-width:0.9912231;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect5053"
@@ -697,7 +696,7 @@
     </g>
     <g
        id="g5373"
-       transform="translate(0,-2.4414063e-4)">
+       transform="translate(0,-40.668136)">
       <g
          inkscape:tile-y0="97.317139"
          inkscape:tile-x0="29.977903"
@@ -830,7 +829,7 @@
     </g>
     <g
        id="g5391"
-       transform="translate(0,3.3421631)">
+       transform="translate(0,-37.325729)">
       <g
          inkscape:tile-y0="150.4259"
          inkscape:tile-x0="29.977903"
@@ -906,7 +905,7 @@
     </g>
     <g
        id="g5402"
-       transform="translate(0,6.6845703)">
+       transform="translate(0,-33.983322)">
       <g
          inkscape:tile-y0="203.53467"
          inkscape:tile-x0="29.977903"
@@ -964,7 +963,7 @@
     </g>
     <g
        id="g5411"
-       transform="translate(0,7.204861)">
+       transform="translate(0,-33.463031)">
       <g
          transform="translate(0,2.8221165)"
          id="g5089">
@@ -1036,7 +1035,7 @@
     </g>
     <g
        id="g5425"
-       transform="translate(0,13.121582)">
+       transform="translate(0,-27.54631)">
       <g
          transform="translate(76,0.247803)"
          id="g5094">
@@ -1085,7 +1084,7 @@
     </g>
     <g
        id="g5435"
-       transform="translate(0,16.711792)">
+       transform="translate(0,-23.9561)">
       <g
          id="g5099">
         <rect
@@ -1133,7 +1132,7 @@
     </g>
     <g
        id="g5445"
-       transform="translate(0,20.148929)">
+       transform="translate(0,-20.518963)">
       <g
          transform="translate(0,0.0302707)"
          id="g5104">
@@ -1182,7 +1181,7 @@
     </g>
     <g
        id="g5455"
-       transform="translate(0,26.864012)">
+       transform="translate(0,-13.80388)">
       <g
          id="g5114">
         <rect
@@ -1236,7 +1235,7 @@
     </g>
     <g
        id="g5465"
-       transform="translate(0,30.206418)">
+       transform="translate(0,-10.461474)">
       <g
          id="g5119">
         <rect
@@ -1290,7 +1289,7 @@
     </g>
     <g
        id="g5475"
-       transform="translate(0,31.390885)">
+       transform="translate(0,-9.277007)">
       <g
          transform="translate(0,0.03660562)"
          id="g5124">
@@ -1324,6 +1323,17 @@
          x="0"
          style="display:inline" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.52695656px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1.5238858"
+       y="-42.716423"
+       id="text4561-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4563-6-0"
+         x="-1.5238858"
+         y="-42.716423">Page</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1549,7 +1559,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Grid Guide"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="opacity:0.275;fill:#ef9a9a;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
